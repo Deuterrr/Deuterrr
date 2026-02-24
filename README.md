@@ -5,34 +5,28 @@
 ; ██  ██ ██▄▄  ██ ██   ██   ██▄▄  ██▄█▄ ██▄█▄ ██▄█▄ 
 ; ████▀  ██▄▄▄ ▀███▀   ██   ██▄▄▄ ██ ██ ██ ██ ██ ██ 
 
-; Primary configuration file defining operational scope,
-; architectural standards, and supported technology modules.
+; Primary configuration file defining operational scope.
 
-; Defines professional domain boundaries
-; and primary engineering orientation.
-[expertise]
-backend=true
-ai=true
-frontend=true
-; devops=true
-
-; Core runtime technologies currently enabled.
-; Commented modules indicate experimental or archived use.
-[core]
-python=true
-typescript=true
-javascript=true
-flutter=true
-; golang=true
-; rust=true
+; This configuration records the current professional state,
+; describing role classification and accumulated experience.
+[experience]
+current=ai-engineer-intern
+level=junior
+year=1
+target_this_year=software-engineer
 
 ; Active long-term objectives and behavioral routines.
 [pursuit]
 learning=continuous
+sketching=sometimes
 coffee=required
 wake_up_time=04:30
 ~
 ~
-"README.ini" 38L, 783C
+~
+"README.ini" 22L, 610C
 -- NORMAL --
 ```
+
+Browse the registered modules in **[my-skills](./my-skills.md)**<br>
+**q(≧▽≦q)**
