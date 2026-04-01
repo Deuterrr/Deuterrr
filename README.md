@@ -1,5 +1,8 @@
+```bash
+deu@fridge:~/portfolio$ vim README.ini
+```
+
 ```ini
-; README.ini
 
 ; ████▄  ▄▄▄▄▄ ▄▄ ▄▄ ▄▄▄▄▄▄ ▄▄▄▄▄ ▄▄▄▄  ▄▄▄▄  ▄▄▄▄  
 ; ██  ██ ██▄▄  ██ ██   ██   ██▄▄  ██▄█▄ ██▄█▄ ██▄█▄ 
@@ -11,7 +14,6 @@
 ; describing role classification and accumulated experience.
 [experience]
 current=information-technology-intern
-; current=ai-engineer-intern
 level=junior
 year=1
 target_this_year=software-engineer  ; 2026, ofc
@@ -21,8 +23,7 @@ target_this_year=software-engineer  ; 2026, ofc
 learning=continuous
 sketching=sometimes
 coffee=required
-wake_up_time=03:30                  ; wake up early :D
-; wake_up_time=04:30
+wake_up_time=03:30  ; wake up early :D
 ~
 ~
 ~
@@ -30,5 +31,6 @@ wake_up_time=03:30                  ; wake up early :D
 -- NORMAL --
 ```
 
-Browse the registered modules in **[my-skills](./my-skills.md)**<br>
+I can't get out. So below are some stuff that I wanna share.<br>
+Registered modules in **[my-skills](./my-skills.md)**<br>
 **q(≧▽≦q)**
