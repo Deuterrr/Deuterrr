@@ -21,7 +21,7 @@ python=true
 java=true
 dart=true
 ; c-sharp=true
-; go=true
+go=true
 ; rust=true
 
 
@@ -34,7 +34,7 @@ nestjs=true
 fastapi=true
 flask=true
 ; django=true
-; golang=true
+golang=true
 
 ; Related to client-side development, building
 ; from look to interaction.
@@ -45,11 +45,13 @@ tailwindcss=true
 ; gsap=true
 framer=true
 ; vue=true
+gatsby=true
 
 [design]
 figma=true
 sketch=true
 ; framer=true
+; adobe_illustrator=true
 
 
 ; Data persistence layers including relational,
@@ -60,7 +62,7 @@ mysql=true
 firebase=true
 supabase=true
 redis=true
-; aws=true
+aws=true
 
 
 ; Machine learning and data analysis libraries.
@@ -84,14 +86,18 @@ opencv=true
 ultralytics_yolo=true
 pillow=true
 
+; Related about NLP
 spacy=true
 nltk=true
 huggingface_transformers=true
 
+; Related about finding dataset
+; and open-weight agent
 huggingface=true
 roboflow=true
 kaggle=true
 
+; Related for making a smart wrapper
 openai_api=true
 gemini_api=true
 ; antropic_api=true
@@ -122,12 +128,25 @@ slack=true
 github_projects=true
 notion=true
 jira=true
+
+
+; Platform for editing code.
+; Includes the known tools such as
+; AI-integrated on terminal.
+[code_editor]
+vscode=true
+vim=true
+; neovim=true
+termux=true
+; antigravity=true
+codex_cli=true
+claude_cli=true
 ~
 ~
 ~
 ~
 ~
-"my-skills.ini" 122L, 2031C
+"my-skills.ini" 142L, 2413C
 -- NORMAL --
 ```
 
