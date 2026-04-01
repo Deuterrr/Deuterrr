@@ -1,5 +1,8 @@
+```bash
+deu@fridge:~/portfolio$ vim my-skills.ini
+```
+
 ```ini
-; my-skills.ini
 
 ; This file summarizes current technical stack,
 ; organized by domain.
