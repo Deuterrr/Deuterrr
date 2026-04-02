@@ -141,7 +141,8 @@ vscode=true
 vim=true
 ; neovim=true
 termux=true
-; antigravity=true
+antigravity=true
+cursor=true
 codex_cli=true
 claude_cli=true
 ~
@@ -149,8 +150,9 @@ claude_cli=true
 ~
 ~
 ~
-"my-skills.ini" 142L, 2413C
+"my-skills.ini" 146L, 2407C
 -- NORMAL --
 ```
 
-Head back to the parent **[README](https://github.com/Deuterrr)**<br>
+But the true skill is **honesty** (*￣▽￣*)o <br>
+Head back to the **[Profile](https://github.com/Deuterrr)**<br>
