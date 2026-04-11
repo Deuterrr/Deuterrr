@@ -46,8 +46,7 @@ reactjs=true
 nextjs=true
 tailwindcss=true
 ; gsap=true
-framer=true
-; vue=true
+vue=true
 gatsby=true
 
 [design]
@@ -138,12 +137,13 @@ jira=true
 ; AI-integrated on terminal.
 [code_editor]
 vscode=true
-vim=true
-; neovim=true
-termux=true
+; vim=true
+neovim=true     ; btw
+termux=true     ; yes
 antigravity=true
 cursor=true
-codex_cli=true
+; codex_cli=true
+codex=true
 claude_cli=true
 ~
 ~
