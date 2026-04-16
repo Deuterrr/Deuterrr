@@ -128,4 +128,4 @@ time="Mar 2025 - May 2025"
 ```
 And all that to pay taxes `(ノ｀Д)ノ`<br>
 Head back to the **[Profile](https://github.com/Deuterrr)**<br>
-Or see my _`kisah`_ or `story` in **[My-Kisah](https://github.com/Deuterrr/my-kisah)**<br>
+Or see my _`kisah`_ or `story` in **[My-Kisah](https://github.com/Deuterrr/Deuterrr/blob/main/my-kisah.md)**<br>

@@ -91,4 +91,4 @@ version="v0.3.ongoing"
 
 The show must go on tho `\(￣︶￣*\))`<br>
 Head back to the **[Profile](https://github.com/Deuterrr)**<br>
-Or see my `skills` that I got in **[My-Skills](https://github.com/Deuterrr/my-skills)**<br>
+Or see my `skills` that I got in **[My-Skills](https://github.com/Deuterrr/Deuterrr/blob/main/my-skills.md)**<br>
