@@ -32,7 +32,6 @@ company="Aether Gear"
 role="Software Engineer"
 time="Oct 2025 - Present"
 
-```ini
 ; Handling the full development lifecycle of web and
 ;     app services—from building features, testing them,
 ;     all the way to deploying into production.
