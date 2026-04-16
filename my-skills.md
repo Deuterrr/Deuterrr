@@ -151,9 +151,9 @@ claude_cli=true
 ~
 ~
 ~
-"my-skills.ini" 146L, 2407C
+"my-skills.ini" 143L, 2439C
 -- NORMAL --
 ```
 
-But the true skill is **honesty** (*￣▽￣*)o <br>
+But the true skill is **honesty** `(*￣▽￣*)o` <br>
 Head back to the **[Profile](https://github.com/Deuterrr)**<br>
