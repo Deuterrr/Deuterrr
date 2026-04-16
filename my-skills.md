@@ -23,7 +23,7 @@ python=true
 ; cpp=true
 java=true
 dart=true
-; c-sharp=true
+; c_sharp=true
 go=true
 ; rust=true
 
@@ -47,6 +47,7 @@ nextjs=true
 tailwindcss=true
 ; gsap=true
 vue=true
+nuxtjs=true
 gatsby=true
 
 [design]
