@@ -12,13 +12,13 @@ deu@fridge:~/portfolio$ vim README.ini
 
 ; This configuration records the current professional state,
 ; describing role classification and accumulated experience.
-status="computer-science-student"
+name=ilham
+passion=software-engineering
 
 [experience]
 current=information-technology-intern
 level=junior
 year=1
-target_this_year=software-engineer  ; 2026, ofc
 
 ; Active long-term objectives and behavioral routines.
 [pursuit]
@@ -29,7 +29,7 @@ wake_up_time=04:30  ; yesterday 3.30
 ~
 ~
 ~
-"README.ini" 23L, 675C
+"README.ini" 22L, 633C
 -- NORMAL --
 ```
 
