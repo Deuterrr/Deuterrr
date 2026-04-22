@@ -5,11 +5,12 @@ deu@fridge:~/portfolio$ vim my-experience.ini
 ```ini
 ; experience.ini
 
-; The file is pretty self-explanatory.
+; This file explain experience role, and potentially
+;     author's story at the company
 
 [experience.kalbe_animal_health]
 company="Kalbe Animal Health"
-role="Information Technology Intern"
+role="IT Intern - Software Engineering & UI/UX"
 time="Apr 2026 - Present"
 
 ; Currently working on maintaining and improving
@@ -20,8 +21,7 @@ time="Apr 2026 - Present"
 ;     (from ~2 minutes to ~30 seconds).
 ; Also leading a migration to NuxtJS to move into
 ;     a more modern stack, with faster startup performance
-;     and better
-;     long-term maintainability.
+;     and better long-term maintainability.
 ; On top of that, I helped redesign the portfolio
 ;     to feel more like a brand identity,
 ;     aiming for a cleaner, modern magazine-style look.
