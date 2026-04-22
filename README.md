@@ -12,7 +12,7 @@ deu@fridge:~/portfolio$ vim README.ini
 
 ; This configuration records the current professional state,
 ; describing role classification and accumulated experience.
-name=ilham
+codename=lhamhi
 passion=software-engineering
 
 [experience]
