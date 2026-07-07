@@ -12,7 +12,7 @@ deu@fridge:~/portfolio$ vim README.ini
 
 ; This configuration records the current professional state,
 ; describing role classification and accumulated experience.
-passions = software-engineering,low_level
+passions = "software-engineering,low_level"
 
 [experience]
 current = information_technology_intern
@@ -20,8 +20,8 @@ level = junior,1yoe
 
 ; Registered competencies used daily (top 3).
 [primary]
-languages = go,typescript,c_sharp
-editors = zed,vscode,goland
+languages = "go,typescript,c_sharp"
+editors = "zed,vscode,goland"
 
 ; Active long-term objectives and behavioral routines.
 [pursuit]
