@@ -14,138 +14,96 @@ deu@fridge:~/portfolio$ vim my-skills.ini
 ; o(*￣▽￣*)ブ
 
 
-; Core programming languages used for general
-; software development.
+; Core programming languages used ranging from
+; trying competitive to general-purpose languages.
 [core]
-typescript=true
-javascript=true
-python=true
-; cpp=true
-java=true
-dart=true
-; c_sharp=true
-go=true
-; rust=true
+programming = typescript,javascript,python,cpp,java,dart,c_sharp,go
+; rust,kotlin
 
 
-; Responsible for business logic, service integration,
-; and system orchestration.
-[backend]
-laravel=true
-express=true
-nestjs=true
-fastapi=true
-flask=true
-; django=true
-golang=true
+; Main frameworks used for backend and frontend development
+; with active experience in each.
+[frameworks]
+backend = laravel,express,nestjs,fastapi,flask,golang
+; django
+frontend = reactjs,nextjs,tailwindcss,gsap,vue,nuxtjs,gatsby
 
-; Related to client-side development, building
-; from look to interaction.
-[frontend]
-reactjs=true
-nextjs=true
-tailwindcss=true
-; gsap=true
-vue=true
-nuxtjs=true
-gatsby=true
 
+; Design tools used for UI/UX design and prototyping.
 [design]
-figma=true
-sketch=true
-; framer=true
-; adobe_illustrator=true
+tools = figma,sketch
+; framer,adobe_illustrator
 
 
 ; Data persistence layers including relational,
 ; NoSQL, and caching systems.
 [databases]
-postgres=true
-mysql=true
-firebase=true
-supabase=true
-redis=true
-aws=true
+tools = postgres,mysql,firebase,supabase,redis,aws
 
 
 ; Machine learning and data analysis libraries.
 ; Utilized for model development, experimentation,
 ; and research workflows.
 [ai_ml]
-numpy=true
-pandas=true
-scipy=true
-matplotlib=true
-seaborn=true
-jupyter=true
-
-pytorch=true
-tensorflow=true
+libraries = numpy,pandas,scipy,matplotlib,seaborn,jupyter,pytorch,tensorflow
 
 ; Related about computer vision
 ; Primary focus area with the majority of hands-on
 ; implementation experience.
-opencv=true
-ultralytics_yolo=true
-pillow=true
+computer_vision = opencv,ultralytics_yolo,pillow
 
-; Related about NLP
-spacy=true
-nltk=true
-huggingface_transformers=true
+nlp = spacy,nltk,huggingface_transformers
 
 ; Related about finding dataset
 ; and open-weight agent
-huggingface=true
-roboflow=true
-kaggle=true
+resources = huggingface,roboflow,kaggle
 
 ; Related for making a smart wrapper
-openai_api=true
-gemini_api=true
-; antropic_api=true
-ollama=true
-; vllm=true
-; peft=true
-; lora=true
+llm = openai_api,gemini_api,ollama
+; antropic_api,vllm,peft,lora
 
 
-; Version control, containerization, and
-; infrastructure tooling.
+; Main tools used to manage and deploy applications
+; and infrastructure.
 [devops]
-git=true
-github=true
-gitlab=true
-docker=true
-; kubernetes=true
-; nginx=true
+version_control = git,github,gitlab
+
+ci_cd = github_actions,gitlab_ci
+; jenkins,circleci,azure_pipelines,argo_cd,tekton
+
+containers = docker,docker_compose
+; kubernetes,rancher,openshift
+
+web = nginx
+; apache_httpd,haproxy,envoy
+
+cloud = aws,gcp,cloudflare
+; azure,oracle_cloud
+
+; serverless = aws_lambda,cloudflare_workers,vercel_functions,netlify_functions
 
 
-; Team coordination and project management 
+; Team coordination and project management
 ; platforms.
-; Supports structured communication and workflow
-; tracking.
 [collaboration]
-discord=true
-slack=true
-github_projects=true
-notion=true
-jira=true
+communication = discord,slack,whatsapp
+
+project_management = ,github_projects,github_issues,gitlab_issues
+; jira,trello
+
+documentation = notion,obsidian,docs
+
+api = postman,insomnia,bruno,swagger,openapi
+
+community = stackoverflow,reddit
 
 
 ; Platform for editing code.
 ; Includes the known tools such as
 ; AI-integrated on terminal.
 [code_editor]
-vscode=true
-; vim=true
-neovim=true     ; btw
-termux=true     ; yes
-antigravity=true
-cursor=true
-; codex_cli=true
-codex=true
-claude_cli=true
+tools = zed,vscode,neovim,termux,antigravity,cursor,codex,claude_cli
+; vim,codex_cli
 ~
 ~
 ~
