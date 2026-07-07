@@ -4,10 +4,9 @@ deu@fridge:~/portfolio$ vim README.ini
 
 ```ini
 
-; █ █              █    ▄
-; █ █        ▄▄▄▄  █    
-; █ █▀▚▖▗▞▀▜▌█ █ █ █▀▚▖ █
-; █ █  █▝▚▄▟▌█   █ █  █ █
+; ▄▄    ▄▄ ▄▄  ▄▄▄  ▄▄   ▄▄ ▄▄ ▄▄ ▄▄ 
+; ██    ██▄██ ██▀██ ██▀▄▀██ ██▄██ ██ 
+; ██▄▄▄ ██ ██ ██▀██ ██   ██ ██ ██ ██ 
 ;
 ; Primary configuration file defining operational scope.
 
@@ -32,7 +31,7 @@ coffee = required
 ~
 ~
 ~
-"README.ini" 26L, 644C
+"README.ini" 25L, 655C
 -- NORMAL --
 ```
 
