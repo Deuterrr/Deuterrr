@@ -4,10 +4,10 @@ deu@fridge:~/portfolio$ vim README.ini
 
 ```ini
 
-; █ ▐▌             ▐▌   ▄
-; █ ▐▌        ▄▄▄▄ ▐▌   
-; █ ▐▛▀▚▖▗▞▀▜▌█ █ █▐▛▀▚▖█
-; █ ▐▌ ▐▌▝▚▄▟▌█   █▐▌ ▐▌█
+; █ █              █    ▄
+; █ █        ▄▄▄▄  █    
+; █ █▀▚▖▗▞▀▜▌█ █ █ █▀▚▖ █
+; █ █  █▝▚▄▟▌█   █ █  █ █
 ;
 ; Primary configuration file defining operational scope.
 
