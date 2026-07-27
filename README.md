@@ -2,13 +2,32 @@
 deu@fridge:~/portfolio$ vim README.ini
 ```
 
-```ini
-
-; ▄▄    ▄▄ ▄▄  ▄▄▄  ▄▄   ▄▄ ▄▄ ▄▄ ▄▄ 
-; ██    ██▄██ ██▀██ ██▀▄▀██ ██▄██ ██ 
-; ██▄▄▄ ██ ██ ██▀██ ██   ██ ██ ██ ██ 
-;
-; Primary configuration file defining operational scope.
+```ini              
+;    ..............+$$$$$$$$$$$$$$$$$Xx;;:................
+; ...............+$$$$$$$$$$$$Xx;......... ...............
+; . ...:.........xXXxX$$$$x:.... .........................
+;   ...::.......:$Xx$$X+.... .... ........................
+;   ...:::......;$XX+. ..  ....:..........................
+;  .....::......;X; .......::::...+..................... .
+;  .............:. ........::.....x..........;..........  
+;  .............  .:::............X;..::.............. .  
+;  ...............:::.. ..........X;xXx;.;.::$+:...... . .
+;  ....................:.........;XX$XXx.;;xXx;:.....  ...
+;   ...................; .......;X$$$X$X$xX$$$+.;...   ...
+;   ............... ...;.:;;XxXX$$$$$$$$$$$$$x;x+... ; ...
+;   ....... ..... ..:..;;:...+xX$$$$$$XXX$$$xxXx:..+;. .  
+;   ....... ..... ..:..x;;:xX$$$$$$$$$XXX$$$$$$x::;;.     
+; .. ......  ...... +XxxxXx$$$$$$$$$$$$XX$$$$XxXX;:..     
+;   . .....   .....:.X$$$$$$$$$$$$$$$$$$$$$$$$$$x:;     ..
+;   . ..... .  ....:..+$$$$$$$$$$$$$$$$$$$$$$$$X+;.     ..
+; ;....  ....+.  .:::: .$$$$XX$$$$$$$$$$$Xx$$$X++:   .....
+; :....;: ..;Xx: ..+;;:..;+;;X$$$$$$$$$$X$$$$x.  ;x. .::.:
+; xx++;;; ..;;;x;::;+xxx+x$$$$$$$$XX$$$$$$$$X. ;;:. .:;:.:
+; xxxxx+. xxx+;+;;;++x$$$$$$$$$$$$$XXX$$$$$X.:xx+: .::. ..
+; $Xxx;;++xxxx++xxxX$$$$$$$$$$$$$$$$XX: .::;xx+++;...:;.. 
+; $$$$$$$XxxXXxx$$$$$$$$$$$$$$$$$$$$$XXxXx:.;;+++;..;;.   
+; $$$$$$$$x$XX$XX$$$$$$$$$$$$$$$$$$X$$XXXXx;;;;;;;.:;..   
+; $$$$$$$$x$$$$$$$$$$$$$$$$$$$$$$XXxx$XXXXXX;++;;..+++++;:
 
 ; This configuration records the current professional state,
 ; describing role classification and accumulated experience.
@@ -18,10 +37,9 @@ passions = "software-engineering,low_level"
 current = information_technology_intern
 level = junior,1yoe
 
-; Registered competencies used daily (top 3).
 [primary]
-languages = "go,typescript,c_sharp"
-editors = "zed,vscode,goland"
+languages = go,typescript,c_sharp
+editors = zed,vscode,goland
 
 ; Active long-term objectives and behavioral routines.
 [pursuit]
@@ -31,7 +49,7 @@ coffee = required
 ~
 ~
 ~
-"README.ini" 25L, 655C
+"README.ini" 43L, 1912C
 -- NORMAL --
 ```
 
