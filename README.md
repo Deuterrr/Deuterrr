@@ -3,34 +3,37 @@ deu@fridge:~/portfolio$ vim README.ini
 ```
 
 ```ini              
-;  ::.;;;;;;..;;+$; ;xxx+xX.;$&&&&&&&+.:+x+x$$$X;+++;x$$$.:Xxxx;::X
-; :: :;;;;;;: ;+x$; ;xxx:: ;&&&&&&&&&&+ .++;+X$$$X.;::x$$.+&&&&&;::
-; :: ::;;;;;: ;+X$; +xx:+++&&&&&&&&&&&&x .;;:;+X$$$$;.:x$:+&$++&$:.
-; ::.;;::;;;+ .+X$+ +++x&x&&&&&&&&&&&&&&x..;+.;+;X$$$$X+xX;&;:;&&+.
-; ::.;:.:;;;+. :$XX.;+:X$$$$$XX+::+$&&&&&$: :+:.;;:;XXXXXXx+++:X&X.
-; :.:+;..:;;;x .:XX;.;.$$&&&&&&&&&&X;&&&&&&x..+x  :;...+xxxx; +;x$+
-; :.:+X ..:;;++ ..++       ;x++x$$&&&&&&&&&&$+ .;.   ..     &&&&&&&
-; :::xX  ..:;++x.....         .X++$&&&&&&&&&&$+. .:::..    .$&+$XX&
-; .:.+X    .:;+xX+.;x:  &:     :X$$&&&&&&&&&&&&&$+: .:x$$:::;&&x&X&
-;  :.+xx    .:+xX&&;;+X   +. &$:X&&&&&&&&&&$Xx+x$&&X.:+x.::::$&&&&&
-; $..;x$    .::;x$$&$:++x+X:$&&&&&&&&&&&&&$$x+   ;x$$;:.::::.:;+::.
-;  .. +xx    .:::+X$X$;::XXXXX$$&&&&&&&&&&X:        x.:&&&$;:::::::
-;     :+XX.    .:::+Xxx: ;$$$$$&&&&&&&&&&&+;    ::   x&&&&&&&&x:...
-;     ..;X$X      .:;xx+: +$$&&&&&&&&$$$$$$+:xx &$: $&&&&&&&&&&&&X;
-;      :  :+X$$$x:   ;x++;:$&&&&&&&&&&&&&;&XXx;$&: &&&&&&$$&$$&&&&&
-;       :xX:;    .:+x ++;X:&&&&&&&&&&&&&&&&&$XXXx+:&&&$$$$$&$:x&&&&
-;        :x:++       .;+;+X&&&&&&&&&&&&&&&&&$$$XX:.:$$$$$$$$+....:X
-;        .+.++         ;;X&&&&&&&&&&&&&&&&&&$$$X+.::::+X$$x;::::x$$
-;         ; x+ ;..      +&&&&&&&&&&&&&&&&&&$$$$Xx;:::::+$$$$$$x;$$$
-;         :  x.:;.......x&&&&&&&&&&$x+$&&&&$$$$:&X::::x$$$$$$$$$$$$
-;            +x .;x$x:.:X&&&&&&&&&&&&&&&&&&&$$ :& .:::+$&&X: . ..xx
-;             x+ .;+xXx+;&&&&&&&&&&&&&&&&&&$+   XX;:.::::      ;+xX
-;     ...     ;xx   :;+x+:$&&&&&&&&&&&&&&$:    ;;: .:++ .    ;;;;::
-; .;;;:;:.     +;;      ;;;xX$$&&&&&&$X.;;+       .        +x:+: :;
-; ;+;;;;.  .:           .  : .:x$X:             .:;    :+XXX;:;.:::
-; ;::;;  .;;..               ..:;;         ;. ..      ;+x+:;.. :::;
-; x+++;;;++++xxxxxXxxX$$&&$Xxx;::    ...              +xxxxx;; ..:$
-; &&&&&&&&&&&&&&&&&&&$X&&&&&&&$$$Xx;;+:;              :;+++;:;...+X
+; ;;;:.;+++xxxx++;;;;+xx;++xxxxxxx+;xXXXXxx+:+xXXx+xx++xXXXXXXXXXXx+:;x;:;;;;;;;XXX      
+; ::.:;++xxxx+++:;;;;xx;;+;xxxxxx+;XXXXXXXx+:;+x+x$$$$x+xxxXX$$$$$XXx::x;:x$X+;;;XXX     
+; ::;;;+++++++;:;;;+xx++;:xxxxxx;+XXXxxXx++;::x$$$x;::+X$$X;+XX$$$$$XX::+::x$X;;;+XXX    
+; .;;;++++++++:;;+++x+;::xxxxxx;+XXx+xx++XXx+;:+xxx$XxX+++;;+;+xXXXXXXX:;+;+X$X;;;+XXX   
+; ;;;;;++++++;:;++++x+:.+xxxxx++Xx++x+XX$$XXx;:;;:;xXXXx+++++xx++xXXXXX;:;;xXXXx;;;xXXx  
+; ;:;;;;+++++::;+++xx;.:xxxxx+xx+:;xXX$$$XXXXx;::;+++xxXXXx++++++;+xXXXX:;+Xxxx+;;;;xXXx 
+; ::;;;;;;;;+::;+++xx;.;+xxx+;;::+XXX$$XXXXXXXX+::;++;;+xXXXXx+;;;;;+xXX;;+XXXXXX+;;;xXX;
+; :;;;;;;;;;+:::++xxx;.;+++;;x;+XXXXXXXXXXXXX$$Xx;::;+;;;++xxXXXXx+;;;xX;++Xx+;+XX+;:;XXX
+; :;;;;;;;;;++:::+xxx+:;++++xx+x++++++++xxXXXXXXXXx;::;+;;;++;+xXXXXxx+xx++x++++xXX+::;XX
+; :++;::;;;;;++:::+xxx;:+;;xXXXXXXXXXXXXxx+++XXXXXXXx+::;++;:;;;;;;++xxxxx+++;:+xx++;::+X
+; :+x+::::;;;+++:::;+x+:::..   :;xx+++xXXXXXXXXXXXXXXXXx;::;;;..::::::::::.;+xXXXXXXx;:;+
+; :++x:.:::;;;++++;::::::.           ;++;xXXXXXXXXXXXXXXXx+:::::::;;;;::::::xXX+XX+xXx;;;
+; :;+x:...:::;;+++xx+;;;+;:. . ..  .  :+XXXXXXXXXXXXXXXXXXXXXxx;::;;+xX+:;;;;xXXxXXXXXx:;
+; :;+xx....:::;;++xXXXX+;xx;:::++::XXXx+XXXXXXXXXXXXXXx+++xx++xXXx;:;+;;;;;;;;xXXXXx++;::
+; ::;+xx.. .:::;;;;+xXXXX+;;;+xxx+xxxXXXXXXXXXXXXXXXXx+:          +;:;xx+;;;::;;;:;;;;;;;
+;  ::;+xX+::   .:;;;;;+xx+x;::;xxxXXXXXXXXXXXXXXXXXX+;:..:. .;     +XXXXXXXXXXx;:::::;;;;
+;   ..:;+xXX+:....  .::;+x++;::;XXXXXXXXXXXXXXXXXXXXXx+.+x;;XXx:.xXXXXXXXXXXXXXXXXXx;;:::
+;     :;:::;;++xxxxx+:..:;++;x;:xXXXXXXXXXXXXXXX$$XxXXxx++;+x;::XXXXXXXXXXXXXxXXXXXXXXXXx
+;      ::+x+:;; ......:;;;;++++;XXXXXXXXXXXXXXXXXXXXXXXXxxxxx+::+XXXXXXXXXXXx;:;+xxxXXXXX
+;       :;+;;++:......... :;+;+XXXXXXXXXXXXXXXXXXXXXXXXXXXxx+;:::;;+xxXXXXx+;;;::;+XXXXXX
+;       .:;:;++:;;:::::....:;xXXXXXXXXXXXXXXXXXXXXXXXXXXXXxx+;;;;;;;;;xXXXXXXXx;;xXXXXXx;
+;        ::  :+;:;;;;;::::::;xXXXXXXXXXXXXXXx+xXXXXXXXXXXx++xx;:::;;+XXXXXXXxxxxxxxXXx+;;
+;         .   :++::;++xxx+;;;xXXXXXXXXXXXXXXXXXXXXXXXXXX+.  x+:.:::;;;+xx;:.....:;+xx+;:;
+;    ....      ;++:::;;;+xx++;+XXXXXXXXXXXXXXXXXXXXXx+:     :+..:;;;:::.    .::;;;+;;;+xx
+; ;;;;;;;:..    +++;:.....::;+;;+xXXXXXXXXXXXXXx+;+;;.     ..:::.        .:;+;;;;:::;;++x
+; +;;;;;:::::::.       ....:.:: +::;;;+++;.                 ....    ::;;++x+;;;;::;;;;+X$
+; ;;;;:::;;;;::          ..:;++;:..:::::.            ...            ;+++++++;:.::;;;+xX$$
+; xxxxxxxxxXXXXxxxxxxxXxxxxX$$$XXXxxxx++;.  ::::.         .     .. .;++++++++;.::::+xxXx;
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX$$$$$XXXXxxxxxxxx+.       .::....  .;;;;;;+xXx;::;+xx+::
+; XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX$$$$XXxxxxxXXXx+.         x++++xxXXXXXXXXx+;++x+;
+; XXXXXXXxxxxxxxxxxxxxxxxxxxxxxx++;.  .;++++:+x;....:;;:.::;++;    xxxxxxxxxxx+;;;+;::+x+
 
 ; This configuration records the current professional state,
 ; describing role classification and accumulated experience.
@@ -52,7 +55,7 @@ coffee = required
 ~
 ~
 ~
-"README.ini" 46L, 2341C
+"README.ini" 49L, 3227C
 -- NORMAL --
 ```
 
