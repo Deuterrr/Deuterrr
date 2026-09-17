@@ -7,24 +7,6 @@ deu@fridge:~/portfolio$ vim my-kisah.ini
 
 ; The file is pretty self-explanatory.
 
-;    ..    .           .                   ..    . .        .   .            
-;           .                 .    @@@       .   .   .         .             
-;  @@@@   .      .   ..      .   @@@@@@-              .    .         ..      
-;    @@@  .   . ..     .    .  @@@@@@   .    . .   .                    .    
-;    .@@@@@  . .  .  .     .@@@@@@@@@@.              #@             .    .   
-;       @@@@@@          @@@@@@@@@@@@@@@@  @@@@@%@@  .@@         .  .         
-;        @@@@@@@ @      @@@@@@@@@@@@@    @           @   @@         .   .    
-;       @  @@@@@@. @      @@@@@@@@@@    @@@@@@ .     @.  .@@@@@=  @  .       
-;  .       :@@@@@@@ @ @:  @@@@@@@@@@    @@@@      .           @: .@@@@@@@%   
-;   .        @@@@@@           .  @      @@ @@:     @@.@ +@@  @@@@@@@@@@@@@   
-;  . .  .      @@@@         .         . +@  @@        . .     .     @@@@@#   
-;      ..           @@                 .        .              @@.    @@@   .
-;             .   ..@@@@@@@@@@@  .          .         :    @        .@@@@@   
-;  .                          -@@@@@ @@@.@@@@@@  @@@@. .             +.  @   
-;    ..       .                  . .    @@=  ..@@              .     .       
-;                     .     .                       .   .         .          
-;      .               .    .   .   .       .   .  .      .          .       
-
 country="indonesia"
 role="computer-science-student"
 
@@ -38,7 +20,6 @@ role="computer-science-student"
 ;     asking “can a computer handle this instead?”
 ; And somehow, that question led me here.
 
-status="alive"
 interests=[ "backend engineering", "distributed systems", "ai systems (cv + llm)", "game development (future arc)" ] 
 
 ; I don’t really have a “perfect” journey.
@@ -50,20 +31,15 @@ interests=[ "backend engineering", "distributed systems", "ai systems (cv + llm)
 ; Still climbing, still building—
 ;     maybe one day I'll rise up too, be winner in my world
 
-; achievements=[]
-
 ; Dream-wise? Pretty straightforward.
-; I want to work in big tech-starting in Indonesia, like
-;     the green group shaping the digital ecosystems
-;     or the red one connecting millions through networks.
-; Not just for the name, but to prove I can compete at that
-;     level.
-; But if things go well, I’d aim higher.
-; A role at miHoYo as a software engineer or game developer?
-; Sounds unreal, but worth chasing.
+; I want to work on large-scale engineering—building high-throughput
+;     digital ecosystems and network architectures that connect millions.
+; Not just for the name, but to prove I can compete and build
+;     at that level.
+; And long-term? Exploring game development and massive interactive systems.
+; Sounds ambitious, but worth chasing.
 
-dream_company=["goto-group", "telkomsel"]
-; dream_company=["mihoyo"]
+target_domains=[ "distributed systems", "digital ecosystems", "game development" ]
 
 ; Right now, I’m focused on building things properly.
 ; Not just making them work,
@@ -72,23 +48,22 @@ dream_company=["goto-group", "telkomsel"]
 ;     and projects that reflect real-world engineering.
 ; Because in this AI era,
 ; I don’t just want to survive—
-; I want to actually live in it.
+; I want to live in it.
 ; Grateful to be here now,
 ;     not stuck in yesterday, not waiting for tomorrow.
 
 principles=[ "build > talk", "structure matters", "understand before optimize", "consistency over intensity" ] 
 
 phase="building"
-mood="curious"
-version="v0.3.ongoing"
+version="v0.4.ongoing"
 ~
 ~
 ~
 ~
-"my-kisah.ini" 78L, 3470C
+"my-kisah.ini" 60L, 2650C
 -- NORMAL --
 ```
 
 The show must go on tho `\(￣︶￣*\))`<br>
-Head back to the **[Profile](https://github.com/Deuterrr)**<br>
-Or see my `skills` that I got in **[My-Skills](https://github.com/Deuterrr/Deuterrr/blob/main/my-skills.md)**<br>
+Head back to the **[Profile](./README.md)**<br>
+Or see my `skills` that I got in **[My-Skills](./my-skills.md)**<br>
