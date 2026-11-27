@@ -65,4 +65,4 @@ version="v0.5.0"
 ```
 
 The show must go on tho `\(￣︶￣*\))`<br>
-Head back to the **[Profile](./README.md)**<br>
+Head back to the **[Profile](https://github.com/Deuterrr)**<br>

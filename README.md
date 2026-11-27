@@ -1,4 +1,2 @@
-`Go` `Rust` `TypeScript` `Python` <br>
-&emsp;\ `Nuxt` `Nest` `Unity` `Laravel`
-
-*   [Background, Principles & Story](./my-kisah.md)
+• `Go` `Rust` `TypeScript` `Python` `CSharp`<br>
+• [Background, Principles & Story](./my-kisah.md)
