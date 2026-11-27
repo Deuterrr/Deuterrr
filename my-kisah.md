@@ -20,7 +20,7 @@ role="computer-science-student"
 ;     asking “can a computer handle this instead?”
 ; And somehow, that question led me here.
 
-interests=[ "backend engineering", "distributed systems", "ai systems (cv + llm)", "game development (future arc)" ] 
+interests=[ "backend engineering", "distributed systems", "game development" ] 
 
 ; I don’t really have a “perfect” journey.
 ; No big awards, no extraordinary titles—
@@ -39,7 +39,7 @@ interests=[ "backend engineering", "distributed systems", "ai systems (cv + llm)
 ; And long-term? Exploring game development and massive interactive systems.
 ; Sounds ambitious, but worth chasing.
 
-target_domains=[ "distributed systems", "digital ecosystems", "game development" ]
+target_domains=[ "software engineer", "system analyst", "game developer" ]
 
 ; Right now, I’m focused on building things properly.
 ; Not just making them work,
@@ -55,15 +55,14 @@ target_domains=[ "distributed systems", "digital ecosystems", "game development"
 principles=[ "build > talk", "structure matters", "understand before optimize", "consistency over intensity" ] 
 
 phase="building"
-version="v0.4.ongoing"
+version="v0.5.0"
 ~
 ~
 ~
 ~
-"my-kisah.ini" 60L, 2650C
+"my-kisah.ini" 53L, 1932C
 -- NORMAL --
 ```
 
 The show must go on tho `\(￣︶￣*\))`<br>
 Head back to the **[Profile](./README.md)**<br>
-Or see my `skills` that I got in **[My-Skills](./my-skills.md)**<br>
